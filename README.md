@@ -1,8 +1,11 @@
 ## 👋 Hi, I'm Dyovana Menegatti!
 
 🌍 I'm living in Brazil.
+
 🎓 Computer Engineer.
+
 👩‍💻 Mid-level Front-end Developer.
+
 
 ### 🖥️ Professional interests:
 Seeking to develop my technical skills in web development, with a focus on the best experience for the end user. 
