@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Dyovana Menegatti!
 
-🌍 I'm living in Brazil. 
-🎓 Computer Engineer.  
+🌍 I'm living in Brazil.
+🎓 Computer Engineer.
 👩‍💻 Mid-level Front-end Developer.
 
 ### 🖥️ Professional interests:
