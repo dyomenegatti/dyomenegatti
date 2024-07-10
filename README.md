@@ -29,4 +29,4 @@ I am always looking for new challenges and to learn new things.
 
 ### 🔗 Contact:
 Send an [email](mailto:dyo.menegatti@hotmail.com)  
-My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/) profile
+My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/)
