@@ -4,8 +4,9 @@
 🎓 Computer Engineer.  
 👩‍💻 Mid-level Front-end Developer.
 
-Professional interests:
-💻 Seeking to develop my technical skills in web development, focusing on the best experience for the end user.
+💻 Professional interests:
+Seeking to develop my technical skills in web development, with a focus on the best experience for the end user. 
+I am always looking for new challenges and to learn new things.
 
 🛠️ Technologies:
 [![Vue][Vue.js]][Vue-url]
@@ -26,6 +27,6 @@ Professional interests:
 [JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
-Contact:
-📧 Send an [email](mailto:dyo.menegatti@hotmail.com)  
-🔗 My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/) profile
+🔗 Contact:
+Send an [email](mailto:dyo.menegatti@hotmail.com)  
+My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/) profile
