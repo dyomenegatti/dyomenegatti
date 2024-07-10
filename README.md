@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dyovana Menegatti!
 
-🌍 I'm live in Brazil.  
+🌍 I'm living in Brazil. 
 🎓 Computer Engineer.  
 👩‍💻 Mid-level Front-end Developer.
 
