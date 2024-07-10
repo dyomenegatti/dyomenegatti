@@ -28,4 +28,4 @@ Seeking to develop my technical skills in web development, focusing on the best 
 
 ### 🔗 Contact:
 Send an [email](mailto:dyo.menegatti@hotmail.com)  
-My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/) profile
+My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/)
