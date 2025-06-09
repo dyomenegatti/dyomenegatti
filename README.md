@@ -1,32 +1,14 @@
-# 👋 Hi, I'm Dyovana Menegatti!
+# 👋 Hi there!
 
-🌍 I'm living in Brazil.  
-🎓 Computer Engineer.  
-👩‍💻 Mid-level Front-end Developer.
+My name is Dyovana Menegatti. 
 
-### 💻 Professional interests:
-Seeking to develop my technical skills in web development, with a focus on the best experience for the end user. 
-I am always looking for new challenges and to learn new things.
+I'm a Computer Engineer, that has been working as a Front-End developer. 
 
-### 🛠️ Technologies:
-[![HTML5][HTML5]][HTML5-url]
-[![CSS3][CSS3]][CSS3-url]
-[![Sass][Sass]][Sass-url]
-[![JavaScript][JavaScript]][JavaScript-url]
-[![Vue][Vue.js]][Vue-url]
+Passionate about creating interactive and intuitive experiences for the end user, I strive to develop my technical skills in web development with a focus on front-end.
 
-<!-- Links and URLs -->
-[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
-[Sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[Sass-url]: https://sass-lang.com/
-[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🔗 Contact:
-Send an [email](mailto:dyo.menegatti@hotmail.com)  
-My [LinkedIn](https://www.linkedin.com/in/dyomenegatti/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyomenegatti/)
